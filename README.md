@@ -47,10 +47,9 @@ To run this project, the following software versions are required:
 
 ## Final Results
 
-![Comparison of Train, Validation, and Test Accuracy on different initialization values for  bias](https://github.com/user-attachments/assets/3e66afdc-455d-4e0f-87cc-fbbfb5795828)
-
 ![Comparison of Train, Validation, and Test Accuracy on fixed CNN_LSTM_CNN_LSTM architecture](https://github.com/user-attachments/assets/c30638e1-3283-4621-85a8-bb10223f5f07)
 
+![Comparison of Train, Validation, and Test Accuracy on different initialization values for  bias](https://github.com/user-attachments/assets/3e66afdc-455d-4e0f-87cc-fbbfb5795828)
 
 ## Miscellaneous
 
