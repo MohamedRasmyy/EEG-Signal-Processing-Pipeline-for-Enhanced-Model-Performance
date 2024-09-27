@@ -47,9 +47,9 @@ To run this project, the following software versions are required:
 
 ## Final Results
 
-![Final Results Chart] [(Comparison of Train, Validation, and Test Accuracy on fixed CNN_LSTM_CNN_LSTM architecture.png)](https://github.com/MohamedRasmyy/EEG-Signal-Processing-Pipeline-for-Enhanced-Model-Performance/blob/EEG-Signal-Processing-Pipeline-for-Enhanced-Model-Performance/Comparison%20of%20Train,%20Validation,%20and%20Test%20Accuracy%20on%20different%20initialization%20values%20for%20%20bias.PNG?raw=true)
+! [Final Results Chart] [(Comparison of Train, Validation, and Test Accuracy on fixed CNN_LSTM_CNN_LSTM architecture.png)](https://github.com/MohamedRasmyy/EEG-Signal-Processing-Pipeline-for-Enhanced-Model-Performance/blob/EEG-Signal-Processing-Pipeline-for-Enhanced-Model-Performance/Comparison%20of%20Train,%20Validation,%20and%20Test%20Accuracy%20on%20different%20initialization%20values%20for%20%20bias.PNG?raw=true)
 
-![Final Results Chart] (Comparison of Train, Validation, and Test Accuracy on different initialization values for  bias.png)
+! [Final Results Chart] (Comparison of Train, Validation, and Test Accuracy on different initialization values for  bias.png)
 
 
 ## Miscellaneous
