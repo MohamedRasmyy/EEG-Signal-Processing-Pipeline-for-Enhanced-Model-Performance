@@ -47,9 +47,9 @@ To run this project, the following software versions are required:
 
 ## Final Results
 
-! [alt text] (https://github.com/MohamedRasmyy/EEG-Signal-Processing-Pipeline-for-Enhanced-Model-Performance/blob/EEG-Signal-Processing-Pipeline-for-Enhanced-Model-Performance/Comparison%20of%20Train,%20Validation,%20and%20Test%20Accuracy%20on%20different%20initialization%20values%20for%20%20bias.PNG?raw=true)
+![Comparison of Train, Validation, and Test Accuracy on different initialization values for  bias](https://github.com/user-attachments/assets/3e66afdc-455d-4e0f-87cc-fbbfb5795828)
 
-![alt text] (Comparison of Train, Validation, and Test Accuracy on different initialization values for  bias.png)
+![Comparison of Train, Validation, and Test Accuracy on fixed CNN_LSTM_CNN_LSTM architecture](https://github.com/user-attachments/assets/c30638e1-3283-4621-85a8-bb10223f5f07)
 
 
 ## Miscellaneous
