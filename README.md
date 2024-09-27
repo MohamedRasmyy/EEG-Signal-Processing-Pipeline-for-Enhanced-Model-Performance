@@ -1,7 +1,7 @@
 # EEG Signal Processing Pipeline for Enhanced Model Performance
 
 
-##Overview
+## Overview
 
 This project contains implementable Python and Jupyter Notebook codes to describe the pipeline of EEG signal processing, focusing on different preprocessing techniques to illustrate the importance of preprocessing in achieving good model performance. A key feature of this project is the introduction of CNN-LSTM-CNN-LSTM model architecture, which demonstrates innovative approaches to EEG signal classification. In Experiment 5, we observe the significant impact of bias initialization on the model performance in deep learning.
 
@@ -28,7 +28,7 @@ Purpose: EEG data is processed using both ICA and ASR techniques for all trainin
 Purpose: This experiment extends the preprocessing with ICA and ASR on all training files, investigating the effect of forget gate bias initialization on the model. Here, we explore the difference in performance when the forget gate bias initialization is set to 0 instead of the default 1.
 
 
-##BCI Dataset
+## BCI Dataset
 
 In this project the used dataset was "BCI Competition 2008– Graz data set A".
 
@@ -47,9 +47,9 @@ To run this project, the following software versions are required:
 
 ## Final Results
 
-![Final Results Chart](Comparison of Train, Validation, and Test Accuracy on fixed CNN_LSTM_CNN_LSTM architecture.png)
+![Final Results Chart] (Comparison of Train, Validation, and Test Accuracy on fixed CNN_LSTM_CNN_LSTM architecture.png)
 
-![Final Results Chart](Comparison of Train, Validation, and Test Accuracy on different initialization values for  bias.png)
+![Final Results Chart] (Comparison of Train, Validation, and Test Accuracy on different initialization values for  bias.png)
 
 
 ## Miscellaneous
