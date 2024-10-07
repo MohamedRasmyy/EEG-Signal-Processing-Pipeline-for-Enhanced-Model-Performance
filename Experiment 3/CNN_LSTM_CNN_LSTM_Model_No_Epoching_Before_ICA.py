@@ -32,7 +32,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split
 
 X_train, X_test, y_train, y_test=train_test_split(X,Y,test_size=.1,random_state=seed)
-X_train, X_val, y_train, y_val = train_test_split(X_train, y_train, test_size=0.1, random_state=seed)  # Split train into train (85%) and validation (15%)
+X_train, X_val, y_train, y_val = train_test_split(X_train, y_train, test_size=0.1, random_state=seed)  
 
 X_train_flatten = X_train.reshape(-1, X_train.shape[-1])  # Shape: (num_train_epochs * num_channels, seq_len)
 X_val_flatten = X_val.reshape(-1, X_val.shape[-1])        # Validation set
